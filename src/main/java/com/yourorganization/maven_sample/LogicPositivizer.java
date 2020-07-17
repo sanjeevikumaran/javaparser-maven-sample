@@ -30,6 +30,7 @@ public class LogicPositivizer {
         CompilationUnit cu = sourceRoot.parse("", "Blabla.java");
 
         Log.info("Positivizing!");
+         Log.info("Sanjeevi Testing Auto Maven Build!");
         
         cu.accept(new ModifierVisitor<Void>() {
             /**
