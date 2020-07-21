@@ -31,8 +31,8 @@ public class LogicPositivizer {
 
         Log.info("Positivizing!");
          Log.info("Sanjeevi Testing Auto Maven Build!");
-          Log.info("Testing the sample build");
-        
+          Log.info("Testing the sample maven build");
+          
         
         
         cu.accept(new ModifierVisitor<Void>() {
