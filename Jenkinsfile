@@ -28,5 +28,4 @@ pipeline {
       echo ‘I will always execute’
     }
   }
- }
 }
